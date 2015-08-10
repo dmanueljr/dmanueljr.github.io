@@ -332,7 +332,7 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 	color:#fff;
 }
 .theme-invert .btn-link {
-	color:rgba(0,0,0,.8);
+	color:#fff;
 }
 .theme-invert .btn-link:hover, .theme-invert .btn-link:focus, .theme-invert .btn-link:active {
 	color:#000
